@@ -62,7 +62,7 @@
                                                 @method('DELETE')
                                                 <button type="submit" 
                                                         class="btn btn-sm btn-danger px-3">
-                                                    <i class="bi bi-trash"></i> Hapus
+                                                    <i class="bi bi-trash"></i> Hapus Menu
                                                 </button>
                                             </form>
                                         </div>
